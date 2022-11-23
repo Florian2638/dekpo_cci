@@ -45,3 +45,17 @@ footer{
     height: 30rem;
     width: 100%;
 }
+/* contact*/
+
+
+
+
+.maingal {
+    padding: 2rem;
+}
+
+@media only screen and (min-width: 1200px) {
+    .card img {
+        width: 15rem;
+    }
+}
