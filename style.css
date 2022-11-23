@@ -1,0 +1,47 @@
+
+
+body {
+    background-color: rgb(235, 235, 235);
+}
+.Resume{
+    display: flex;
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    
+}
+header{
+    background-color: rgb(6, 21, 104);
+}
+
+.copyright img{
+    height: 25px;
+    
+}
+.copyright p{
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+.copyright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+footer{
+    padding: 20px;
+    background-color: rgb(240, 11, 11);
+    
+}
+/* gallery */
+
+.card-text p{
+    display: flex;
+    justify-content: center;
+}
+
+.maps {
+    height: 30rem;
+    width: 100%;
+}
