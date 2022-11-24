@@ -10,27 +10,21 @@ body {
     
 }
 header{
-    background-color: rgb(6, 21, 104);
+    background-color: rgb(38, 101, 238);
 }
 
 .copyright img{
-    height: 25px;
-    
-}
-.copyright p{
-    font-size: 20px;
-    margin-top: 0;
-    margin-bottom: 0;
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 45px 
 }
 .copyright{
     display: flex;
-    align-items: center;
-    justify-content: center;
-    
+    justify-content: space-around;
 }
 footer{
-    padding: 20px;
+    padding: 30px;
     background-color: rgb(240, 11, 11);
     
 }
@@ -45,10 +39,15 @@ footer{
     height: 30rem;
     width: 100%;
 }
+
 /* contact*/
+.nav-link{
+    color: rgb(0, 0, 0);
+}
 
-
-
+.box{
+    overflow-x: hidden;
+}
 
 .maingal {
     padding: 2rem;
